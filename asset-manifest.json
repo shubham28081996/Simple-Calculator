@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/shubham28081996.github.io/static/css/main.c1a3b43e.css",
+    "main.js": "//github.com/shubham28081996.github.io/static/js/main.23b6bfaf.js",
+    "static/js/787.bdbb654d.chunk.js": "//github.com/shubham28081996.github.io/static/js/787.bdbb654d.chunk.js",
+    "index.html": "//github.com/shubham28081996.github.io/index.html",
+    "main.c1a3b43e.css.map": "//github.com/shubham28081996.github.io/static/css/main.c1a3b43e.css.map",
+    "main.23b6bfaf.js.map": "//github.com/shubham28081996.github.io/static/js/main.23b6bfaf.js.map",
+    "787.bdbb654d.chunk.js.map": "//github.com/shubham28081996.github.io/static/js/787.bdbb654d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a3b43e.css",
+    "static/js/main.23b6bfaf.js"
+  ]
+}
