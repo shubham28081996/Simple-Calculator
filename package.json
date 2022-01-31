@@ -2,7 +2,7 @@
   "name": "calc",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://https://github.com/shubham28081996.github.io",
+  "homepage" : "https://github.com/shubham28081996/Simple-Calculator",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.1",
